@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá Meu Nome e Jonatan e <br><br>Estou cursando ADS e estou<br>Estudando as seguintes tecnologias<br><br>HTML/CSS<br>JAVASCRIPT<br>C/C++</p>
+<p align="left">Olá Meu Nome e Jonatan <br><br>Estou cursando ADS e estou<br>Estudando as seguintes tecnologias<br><br>HTML/CSS<br>JAVASCRIPT<br>C/C++</p>
 
 ###
 
